@@ -7,10 +7,10 @@ Módulo: **DS-PY-005 - TÉCNICAS DE PROGRAMAÇÃO II (PY)**
 Facilitador: **Carlos Stefano**
 
 Grupo 02: 
-- **Anderson Miranda**
-- **Gabriel Lima**
+- [**Anderson Miranda**](https://github.com/aluipio)
+- [**Gabriel Lima**](https://github.com/Gilc466)
 - **Lucas Freire de Carvalho Galvão**
-- **Nilo B. Silva Jr.**
+- [**Nilo B. Silva Jr.**](https://github.com/NiloBSilvaJr)
 
 ![EDA](https://raw.githubusercontent.com/aluipio/eda_ada_tpii_football/main/imagem.png)
 
