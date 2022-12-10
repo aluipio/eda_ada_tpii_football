@@ -9,7 +9,7 @@ Facilitador: **Carlos Stefano**
 Grupo 02: 
 - [**Anderson Miranda**](https://github.com/aluipio)
 - [**Gabriel Lima**](https://github.com/Gilc466)
-- **Lucas Freire de Carvalho Galvão**
+- [**Lucas Freire de Carvalho Galvão**](https://github.com/lfcgalvao)
 - [**Nilo B. Silva Jr.**](https://github.com/NiloBSilvaJr)
 
 ![EDA](https://raw.githubusercontent.com/aluipio/eda_ada_tpii_football/main/imagem.png)
